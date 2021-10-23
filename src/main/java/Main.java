@@ -4,9 +4,11 @@ public class Main {
         System.out.println();
         System.out.println();
         tmp();
+        tmp();
     }
 
     public static void tmp() {
+        System.out.println();
         System.out.println();
     }
 }
