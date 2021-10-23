@@ -7,8 +7,7 @@ public class Test1 {
     }
 
     public int devide(int x, int y) {
-        System.out.println();
-        System.out.println();
+        System.out.println(1);
         if (y == 0) {
             return -1;
         }
