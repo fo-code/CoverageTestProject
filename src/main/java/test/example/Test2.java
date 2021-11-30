@@ -2,7 +2,7 @@ package test.example;
 
 public class Test2 {
 
-    public int substract(int number) {
+    public int subtract(int number) {
         return --number;
     }
 
