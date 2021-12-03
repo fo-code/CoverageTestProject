@@ -11,7 +11,7 @@ public class Main {
     public static void tmp() {
         System.out.println();
         System.out.println();
-        System.out.println();
+        System.out.println(5);
 
         System.out.println();
         System.out.println("Test");
