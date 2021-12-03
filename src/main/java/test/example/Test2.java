@@ -8,7 +8,6 @@ public class Test2 {
 
     public int multiplyPositive(int x, int y) {
         System.out.println(5);
-        System.out.println();
         if (y < 0 || x < 0) {
             return -1;
         }
