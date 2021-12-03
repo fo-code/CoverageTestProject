@@ -18,10 +18,9 @@ public class Main {
     }
 
     public static void tmp2() {
-        System.out.println();
+        System.out.println(54);
     }
 
     public static void tmp3() {
-        System.out.println();
     }
 }
