@@ -1,12 +1,12 @@
 public class Main {
 
     public static void main(String... args) {
-        tmp();
+        returnOne();
         tmp2();
     }
 
-    public static void tmp() {
-        System.out.println();
+    public static int returnOne() {
+        return 1;
     }
 
     public static void tmp2() {
