@@ -1,5 +1,7 @@
 public class Main {
 
+    private String unused;
+
     public static void main(String... args) {
         returnOne();
         tmp2();
