@@ -1,8 +1,8 @@
 package test.example;
 
-public class Test5 {
+public class Test6 {
 
-    public void test() {
+    public void a() {
         System.out.println();
     }
 }
