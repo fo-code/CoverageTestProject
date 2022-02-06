@@ -6,9 +6,6 @@ public class Main {
         returnOne();
         tmp2();
         tmp3();
-        System.out.println("Here");
-        System.out.println("Here");
-        System.out.println("Here");
     }
 
     public static int returnOne() {
