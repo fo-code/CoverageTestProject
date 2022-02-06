@@ -7,6 +7,7 @@ public class Main {
         tmp2();
         tmp3();
         System.out.println();
+        System.out.println();
     }
 
     public static int returnOne() {
