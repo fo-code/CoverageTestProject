@@ -19,6 +19,8 @@ public class Main {
     }
 
     public static void tmp3() {
+
+
         System.out.println(8);
     }
 }
