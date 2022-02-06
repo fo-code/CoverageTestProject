@@ -10,6 +10,7 @@ public class Test2 {
         System.out.println(5);
         System.out.println(5);
         System.out.println(5);
+        System.out.println(5);
         if (y < 0 || x < 0) {
             return -1;
         }
