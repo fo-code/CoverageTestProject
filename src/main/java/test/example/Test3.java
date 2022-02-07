@@ -7,11 +7,17 @@ public class Test3 {
         System.out.println("test");
     }
 
-    public void test5() {
+    public String get() {
         System.out.println();
+        return "";
     }
 
-    public String get() {
+    public String newOne() {
+        System.out.println();
+        return "";
+    }
+
+    public String newTwo() {
         System.out.println();
         return "";
     }
