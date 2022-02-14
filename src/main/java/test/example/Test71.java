@@ -9,4 +9,8 @@ public class Test71 {
     public String x() {
         return "";
     }
+
+    public String z() {
+        return "";
+    }
 }

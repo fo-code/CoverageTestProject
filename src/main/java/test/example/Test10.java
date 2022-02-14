@@ -6,6 +6,10 @@ public class Test10 {
         System.out.println();
     }
 
+    public void test2() {
+        System.out.println();
+    }
+
     public void testNew(int x) {
         if (x > 0) {
             System.out.println(x);

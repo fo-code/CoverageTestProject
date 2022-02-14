@@ -1,3 +1,5 @@
+package test.example;
+
 public class Main {
 
     private String unused;
