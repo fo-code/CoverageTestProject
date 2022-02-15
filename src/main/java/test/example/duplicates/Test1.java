@@ -12,4 +12,8 @@ public class Test1 {
         }
         return x / y;
     }
+
+    public void x() {
+        System.out.println();
+    }
 }
