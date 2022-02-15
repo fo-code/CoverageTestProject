@@ -12,4 +12,16 @@ public class Test2 {
         }
         return x * y;
     }
+
+    public void b() {
+        System.out.println("test");
+    }
+
+    public void c() {
+        System.out.println("test");
+    }
+
+    public void d() {
+        System.out.println("test");
+    }
 }
