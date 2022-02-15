@@ -15,4 +15,16 @@ public class Test10 {
             System.out.println(0);
         }
     }
+
+    public void b() {
+        System.out.println("test");
+    }
+
+    public void c() {
+        System.out.println("test");
+    }
+
+    public void d() {
+        System.out.println("test");
+    }
 }
