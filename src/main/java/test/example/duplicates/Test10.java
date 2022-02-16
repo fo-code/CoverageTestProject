@@ -27,4 +27,8 @@ public class Test10 {
     public void d() {
         System.out.println("test");
     }
+
+    public void e() {
+        System.out.println("test");
+    }
 }
