@@ -39,4 +39,8 @@ public class Test10 {
     public void g() {
         System.out.println("test");
     }
+
+    public void h() {
+        System.out.println("test");
+    }
 }
