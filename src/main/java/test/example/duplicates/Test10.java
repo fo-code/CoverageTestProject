@@ -31,4 +31,8 @@ public class Test10 {
     public void e() {
         System.out.println("test");
     }
+
+    public void f() {
+        System.out.println("test");
+    }
 }
