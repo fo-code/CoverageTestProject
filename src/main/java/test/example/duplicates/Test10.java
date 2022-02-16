@@ -35,4 +35,8 @@ public class Test10 {
     public void f() {
         System.out.println("test");
     }
+
+    public void g() {
+        System.out.println("test");
+    }
 }
