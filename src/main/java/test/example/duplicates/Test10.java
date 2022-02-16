@@ -20,27 +20,8 @@ public class Test10 {
         System.out.println("test");
     }
 
-    public void c() {
+    public void b1() {
         System.out.println("test");
     }
 
-    public void d() {
-        System.out.println("test");
-    }
-
-    public void e() {
-        System.out.println("test");
-    }
-
-    public void f() {
-        System.out.println("test");
-    }
-
-    public void g() {
-        System.out.println("test");
-    }
-
-    public void h() {
-        System.out.println("test");
-    }
 }
