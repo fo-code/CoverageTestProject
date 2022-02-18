@@ -20,8 +20,8 @@ public class Test3Test {
     }
 
     @Test
-    public void testB() {
+    public void testGet() {
         Test3 test3 = new Test3();
-        test3.b();
+        assertThat(test3.get(), is(""));
     }
 }
