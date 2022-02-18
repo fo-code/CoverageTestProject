@@ -7,6 +7,11 @@ public class Test3 {
         System.out.println("test");
     }
 
+    public void c() {
+        System.out.println("test");
+        System.out.println("test");
+    }
+
     public String get() {
         System.out.println();
         return "";
