@@ -9,4 +9,12 @@ public class Test7 {
     public String x() {
         return "";
     }
+
+    public String a() {
+        return "";
+    }
+
+    public String b() {
+        return "";
+    }
 }

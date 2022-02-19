@@ -13,4 +13,13 @@ public class Test7 {
     public String z() {
         return "";
     }
+
+
+    public String a() {
+        return "";
+    }
+
+    public String b() {
+        return "";
+    }
 }

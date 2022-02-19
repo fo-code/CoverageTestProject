@@ -2,6 +2,11 @@ package test.example;
 
 public class Test3 {
 
+    public void a() {
+        System.out.println("test");
+        System.out.println("test");
+    }
+
     public void b() {
         System.out.println("test");
         System.out.println("test");
