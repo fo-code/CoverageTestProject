@@ -20,7 +20,7 @@ public class Test1Test {
         assertThat(test.increase(1), is(2));
     }
 
-    /*@Test
+    @Test
     public void testDivideByZero() {
         assertThat(test.devide(1, 0), is(-1));
     }
@@ -28,5 +28,10 @@ public class Test1Test {
     @Test
     public void testDivide() {
         assertThat(test.devide(4, 2), is(2));
-    }*/
+    }
+
+    @Test
+    public void testA() {
+        assertThat(test.a(), is(0));
+    }
 }

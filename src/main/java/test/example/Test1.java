@@ -12,4 +12,14 @@ public class Test1 {
         }
         return x / y;
     }
+
+    public int a() {
+        System.out.println();
+        return 0;
+    }
+
+    public int b() {
+        System.out.println();
+        return 0;
+    }
 }
