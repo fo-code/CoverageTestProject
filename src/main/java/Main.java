@@ -16,4 +16,16 @@ public class Main {
     public static void tmp3() {
         System.out.println(8);
     }
+
+    public static void a() {
+        System.out.println();
+    }
+
+    public static void b() {
+        System.out.println();
+    }
+
+    public static void c() {
+        System.out.println();
+    }
 }
