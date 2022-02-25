@@ -12,4 +12,10 @@ public class Test2 {
         }
         return x * y;
     }
+
+    public void get() {
+        System.out.println();
+        System.out.println();
+        System.out.println();
+    }
 }

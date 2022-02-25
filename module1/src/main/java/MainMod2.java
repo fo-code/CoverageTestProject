@@ -1,3 +1,4 @@
+
 public class MainMod2 {
 
     public void a() {
