@@ -15,6 +15,13 @@ public class Main {
         return 1;
     }
 
+    public static int a() {
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        return 0;
+    }
+
     public static void tmp2() {
         System.out.println(5);
     }

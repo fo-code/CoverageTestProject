@@ -8,10 +8,6 @@
     <artifactId>CoverageTestProject</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
-    <modules>
-        <module>module1</module>
-        <module>module2</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
