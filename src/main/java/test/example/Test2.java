@@ -13,4 +13,9 @@ public class Test2 {
         }
         return x * y;
     }
+
+    public void test() {
+        System.out.println();
+        System.out.println();
+    }
 }
