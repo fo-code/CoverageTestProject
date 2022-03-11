@@ -15,6 +15,10 @@ public class Test1 {
 
     public void test() {
         System.out.println();
+    }
+
+    public void test2() {
+        System.out.println();
         System.out.println();
         System.out.println();
     }
