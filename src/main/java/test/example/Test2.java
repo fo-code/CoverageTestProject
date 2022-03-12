@@ -7,6 +7,7 @@ public class Test2 {
     }
 
     public int multiplyPositive(int x, int y) {
+        System.out.println();
         if (y < 0 || x < 0) {
             return -1;
         }
@@ -14,8 +15,6 @@ public class Test2 {
     }
 
     public void test() {
-        System.out.println("test");
-        System.out.println("test");
         System.out.println("test");
     }
 
