@@ -24,4 +24,9 @@ public class Test1Test {
     public void testDivide() {
         assertThat(test.devide(1, 0), is(-1));
     }
+
+    @Test
+    public void testTest() {
+        test.test();
+    }
 }

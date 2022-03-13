@@ -30,10 +30,4 @@ public class Main {
         System.out.println();
         System.out.println();
     }
-
-    public static void c() {
-        System.out.println();
-        System.out.println();
-        System.out.println();
-    }
 }
