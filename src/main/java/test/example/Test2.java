@@ -17,6 +17,7 @@ public class Test2 {
         System.out.println("test");
         System.out.println("testtest");
         System.out.println("testtest");
+        System.out.println("testtest");
     }
 
     public void newTest() {
