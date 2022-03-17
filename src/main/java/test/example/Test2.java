@@ -18,10 +18,12 @@ public class Test2 {
         System.out.println("test");
         System.out.println("testtest");
         System.out.println("testtest");
-        System.out.println("testtest");
     }
 
     public void newTest() {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
         System.out.println();
         System.out.println();
     }
