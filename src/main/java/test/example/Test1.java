@@ -23,5 +23,7 @@ public class Test1 {
         System.out.println();
     }
 
-
+    public void x() {
+        System.out.println("test");
+    }
 }
