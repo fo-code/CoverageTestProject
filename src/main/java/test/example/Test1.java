@@ -13,8 +13,10 @@ public class Test1 {
         return x / y;
     }
 
-    public void test() {
-        System.out.println();
+    public void test(int i) {
+        if (i > 0 || i < 0) {
+            System.out.println();
+        }
     }
 
     public void test2() {
