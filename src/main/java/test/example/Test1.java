@@ -17,12 +17,15 @@ public class Test1 {
         if (i > 0 || i < 0) {
             System.out.println();
         }
+        else {
+            System.out.println("Test");
+        }
     }
 
     public void test2() {
         System.out.println();
         System.out.println();
-        System.out.println();
+        System.out.println("Test");
     }
 
     public void x() {
