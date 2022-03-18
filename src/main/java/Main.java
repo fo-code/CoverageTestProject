@@ -16,8 +16,6 @@ public class Main {
     public static void tmp3() {
         System.out.println(8);
         System.out.println(8);
-        System.out.println(8);
-        System.out.println(8);
     }
 
     public static void a() {
@@ -26,8 +24,6 @@ public class Main {
     }
 
     public static void b() {
-        System.out.println();
-        System.out.println();
         System.out.println();
         System.out.println();
     }
