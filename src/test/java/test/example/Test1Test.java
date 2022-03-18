@@ -28,6 +28,5 @@ public class Test1Test {
     @Test
     public void testTest() {
         test.test(1);
-        test.test(-1);
     }
 }
