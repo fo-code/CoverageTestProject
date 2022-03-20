@@ -32,6 +32,6 @@ public class Test2Test {
 
     @Test
     public void testNewTest() {
-        test.newTest();
+        //test.newTest();
     }
 }

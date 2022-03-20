@@ -20,11 +20,6 @@ public class Test2 {
         System.out.println("testtest");
     }
 
-
-
-
-
-
     public void newTest() {
         System.out.println();
         System.out.println();
@@ -32,8 +27,5 @@ public class Test2 {
             System.out.println();
         }
     }
-
-
-
 
 }

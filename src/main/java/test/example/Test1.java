@@ -28,12 +28,8 @@ public class Test1 {
         System.out.println("Test");
     }
 
-    public void x() {
-        System.out.println("test");
-    }
-
-    public void y() {
-        System.out.println("here");
-        System.out.println("here");
+    public void doSth() {
+        int x = 4;
+        System.out.println(x);
     }
 }
