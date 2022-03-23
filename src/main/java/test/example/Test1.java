@@ -3,6 +3,7 @@ package test.example;
 public class Test1 {
 
     private int x;
+    private int y;
 
     public int increase(int number) {
         return ++number;
