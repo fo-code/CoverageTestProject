@@ -2,6 +2,8 @@ package test.example;
 
 public class Test1 {
 
+    private int x;
+
     public int increase(int number) {
         return ++number;
     }

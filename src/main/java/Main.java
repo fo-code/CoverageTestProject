@@ -24,7 +24,7 @@ public class Main {
         System.out.println();
     }
 
-    public static void b() {
+    public static void b(final int a) {
         System.out.println();
         System.out.println();
     }
