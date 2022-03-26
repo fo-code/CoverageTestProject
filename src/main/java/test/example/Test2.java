@@ -2,7 +2,7 @@ package test.example;
 
 public class Test2 {
 
-    public int subtract(int number) {
+    public int decrease(int number) {
         return --number;
     }
 
@@ -12,20 +12,4 @@ public class Test2 {
         }
         return x * y;
     }
-
-    public void test() {
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("testtest");
-        System.out.println("testtest");
-    }
-
-    public void newTest() {
-        System.out.println();
-        System.out.println();
-        for (int i = 0; i < 5; i++) {
-            System.out.println();
-        }
-    }
-
 }

@@ -1,31 +1,12 @@
+import test.example.Test1;
+import test.example.Test2;
+
 public class Main {
 
     public static void main(String... args) {
-        returnOne();
-        tmp2();
-    }
-
-    public static int returnOne() {
-        return 1;
-    }
-
-    public static void tmp2() {
-        System.out.println(5);
-    }
-
-    public static void tmp3() {
-        System.out.println(8);
-        System.out.println(8);
-        System.out.println(8);
-    }
-
-    public static void a() {
-        System.out.println();
-        System.out.println();
-    }
-
-    public static void b(final int a, final int y) {
-        System.out.println();
-        System.out.println();
+        Test1 test1 = new Test1();
+        System.out.println(test1.divide(4, 2));
+        Test2 test2 = new Test2();
+        System.out.println(test2.decrease(3));
     }
 }

@@ -6,7 +6,7 @@ import static org.hamcrest.Matchers.is;
 public class MainTest {
 
     @Test
-    public void testReturnOne() {
-        assertThat(Main.returnOne(), is(1));
+    public void testMain() {
+        Main.main();
     }
 }

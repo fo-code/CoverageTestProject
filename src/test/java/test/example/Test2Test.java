@@ -17,21 +17,11 @@ public class Test2Test {
 
     @Test
     public void testSubtract() {
-        assertThat(test.subtract(1), is(0));
+        assertThat(test.decrease(1), is(0));
     }
 
     @Test
     public void testMultiplyPositiveWithNegativeNumber() {
         assertThat(test.multiplyPositive(-1, 0), is(-1));
-    }
-
-    @Test
-    public void testMultiplyPositive() {
-        assertThat(test.multiplyPositive(2, 2), is(4));
-    }
-
-    @Test
-    public void testNewTest() {
-        //test.newTest();
     }
 }
