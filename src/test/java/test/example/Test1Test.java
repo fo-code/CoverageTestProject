@@ -31,12 +31,17 @@ public class Test1Test {
     }
 
     @Test
-    public void testSubtract() {
-        assertThat(test.decrease(1), is(0));
+    public void testMultiplyPositiveWithNegativeNumber() {
+        //assertThat(test.multiplyPositive(-1, 0), is(-1));
     }
 
     @Test
-    public void testMultiplyPositiveWithNegativeNumber() {
-        //assertThat(test.multiplyPositive(-1, 0), is(-1));
+    public void testMultiplyPositive() {
+        assertThat(test.multiplyPositive(5, 5), is(25));
+    }
+
+    @Test
+    public void testDoSomething() {
+        test.doSomething();
     }
 }
