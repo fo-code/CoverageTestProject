@@ -32,7 +32,7 @@ public class Test1Test {
 
     @Test
     public void testMultiplyPositiveWithNegativeNumber() {
-        //assertThat(test.multiplyPositive(-1, 0), is(-1));
+        assertThat(test.multiplyPositive(-1, 0), is(-1));
     }
 
     @Test

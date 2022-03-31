@@ -33,5 +33,6 @@ public class Test1 {
 
     public void printSomething() {
         System.out.println("Hello");
+        System.out.println("Hello");
     }
 }
