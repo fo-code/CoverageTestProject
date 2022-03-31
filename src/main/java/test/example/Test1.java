@@ -6,6 +6,7 @@ public class Test1 {
      * Comment.
      */
     private int x;
+    private int y;
 
     public int increase(int number) {
         return ++number;
