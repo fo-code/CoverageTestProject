@@ -19,7 +19,6 @@ public class Test1 {
 
     public int divide(int x, int y) {
         if (y == 0 || y < 0) {
-            System.out.println("Hello");
             return -1;
         }
         return x / y;
