@@ -6,7 +6,15 @@ public class SourcecodeTest {
         System.out.println();
     }
 
+    public void insertedTested() {
+        System.out.println();
+    }
+
     public void second() {
+        System.out.println();
+    }
+
+    public void inserted() {
         System.out.println();
     }
 
