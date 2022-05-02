@@ -7,13 +7,13 @@ public class SourcecodeTestTest {
     @Test
     public void testInsertedTested() {
         SourcecodeTest test = new SourcecodeTest();
-        test.inserted();
+        test.first();
+        test.second();
     }
 
     @Test
     public void test() {
         SourcecodeTest test = new SourcecodeTest();
         test.x();
-        test.y();
     }
 }
