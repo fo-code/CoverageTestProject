@@ -2,11 +2,16 @@ package test.example;
 
 public class SourcecodeTest {
 
-    public void first() {
+    public void x() {
+        System.out.println();
+        System.out.println();
         System.out.println();
     }
 
-    public void insertedTested() {
+    public void first() {
+        System.out.println();
+        System.out.println("");
+        System.out.println("");
         System.out.println();
     }
 
@@ -19,6 +24,10 @@ public class SourcecodeTest {
     }
 
     public void third() {
+        System.out.println();
+    }
+
+    public void y() {
         System.out.println();
     }
 }

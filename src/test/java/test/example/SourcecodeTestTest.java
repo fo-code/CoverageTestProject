@@ -5,14 +5,15 @@ import org.junit.jupiter.api.Test;
 public class SourcecodeTestTest {
 
     @Test
-    public void testSecond() {
+    public void testInsertedTested() {
         SourcecodeTest test = new SourcecodeTest();
-        test.second();
+        test.inserted();
     }
 
     @Test
-    public void testInsertedTested() {
+    public void test() {
         SourcecodeTest test = new SourcecodeTest();
-        test.insertedTested();
+        test.x();
+        test.y();
     }
 }
