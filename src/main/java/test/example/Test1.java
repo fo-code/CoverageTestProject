@@ -31,7 +31,18 @@ public class Test1 {
         return x * y;
     }
 
-    public void printSomething() {
-        System.out.println("Hello");
+    public void test2() {
+        System.out.println();
+    }
+
+    public void xx(final boolean v) {
+        if (v) {
+            System.out.println("Here");
+        }
+        System.out.println();
+    }
+
+    public void yy() {
+        System.out.println();
     }
 }

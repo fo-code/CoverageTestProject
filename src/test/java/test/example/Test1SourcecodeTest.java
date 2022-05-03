@@ -43,5 +43,6 @@ public class Test1SourcecodeTest {
     @Test
     public void testDoSomething() {
         test.doSomething();
+        test.xx(true);
     }
 }
