@@ -1,6 +1,6 @@
 package test.example;
 
-public class Test1 {
+public class TestClass {
 
     /**
      * Comment.

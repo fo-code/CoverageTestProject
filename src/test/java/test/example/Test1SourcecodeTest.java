@@ -8,11 +8,11 @@ import static org.hamcrest.Matchers.is;
 
 public class Test1SourcecodeTest {
 
-    private static Test1 test;
+    private static TestClass test;
 
     @BeforeAll
     public static void init() {
-        test = new Test1();
+        test = new TestClass();
     }
 
     @Test

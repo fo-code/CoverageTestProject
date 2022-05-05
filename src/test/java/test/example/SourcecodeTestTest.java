@@ -8,7 +8,6 @@ public class SourcecodeTestTest {
     public void testInsertedTested() {
         SourcecodeTest test = new SourcecodeTest();
         test.first();
-        test.second();
     }
 
     @Test
