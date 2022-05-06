@@ -1,9 +1,9 @@
-import test.example.TestClass;
+import test.example.TestClassRename;
 
 public class Main {
 
     public static void main(String... args) {
-        TestClass testClass = new TestClass();
+        TestClassRename testClass = new TestClassRename();
         System.out.println(testClass.divide(4, 2));
     }
 }

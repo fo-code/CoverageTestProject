@@ -17,13 +17,4 @@ public class SourcecodeTest {
         System.out.println("hey");
         System.out.println("heyhey");
     }
-
-    public void second() {
-        System.out.println("x");
-        System.out.println("bla");
-    }
-
-    public void y() {
-        System.out.println();
-    }
 }
