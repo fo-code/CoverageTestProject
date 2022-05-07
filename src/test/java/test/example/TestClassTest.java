@@ -1,10 +1,12 @@
 package test.example;
 
+import org.junit.jupiter.api.Test;
+
 public class TestClassTest {
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testTest() {
-        Test t = new Test();
+        TestClass t = new TestClass();
         t.test();
     }
 }
