@@ -17,7 +17,7 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testIncrease() {
-        //assertThat(test.increase(1), is(2));
+        assertThat(test.increase(1), is(2));
     }
 
     @Test
@@ -32,12 +32,12 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testMultiplyPositiveWithNegativeNumber() {
-        assertThat(test.multiplyPositive(-1, 0), is(-1));
+        //assertThat(test.multiplyPositive(-1, 0), is(-1));
     }
 
     @Test
     public void testMultiplyPositive() {
-        assertThat(test.multiplyPositive(5, 5), is(25));
+        //assertThat(test.multiplyPositive(5, 5), is(25));
     }
 
     @Test
