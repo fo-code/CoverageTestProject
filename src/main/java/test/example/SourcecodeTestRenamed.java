@@ -1,6 +1,6 @@
 package test.example;
 
-public class SourcecodeTest {
+public class SourcecodeTestRenamed {
 
     /**
      * Comment.
