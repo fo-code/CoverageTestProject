@@ -27,7 +27,7 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testDivide() {
-        //assertThat(test.divide(2, 2), is(1));
+        assertThat(test.divide(2, 2), is(1));
     }
 
     @Test
@@ -42,7 +42,6 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testDoSomething() {
-        test.doSomething();
-        test.xx(true);
+        //test.doSomething();
     }
 }

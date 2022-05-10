@@ -12,11 +12,6 @@ public class SourcecodeTestRenamed {
         return ++number;
     }
 
-    public void doSomething() {
-        System.out.println("Hello");
-    }
-
-
     public int divide(int x, int y) {
         if (y == 0 || y < 0) {
             return -1;
@@ -31,10 +26,7 @@ public class SourcecodeTestRenamed {
         return x * y;
     }
 
-    public void xx(final boolean v) {
-        if (v) {
-            System.out.println("Here");
-        }
-        System.out.println();
+    public void print() {
+        System.out.println("Hallo");
     }
 }
