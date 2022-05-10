@@ -22,7 +22,7 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testDivideZero() {
-        assertThat(test.divide(1, 0), is(-1));
+        //assertThat(test.divide(1, 0), is(-1));
     }
 
     @Test
@@ -37,11 +37,11 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testMultiplyPositive() {
-        //assertThat(test.multiplyPositive(5, 5), is(25));
+        assertThat(test.multiplyPositive(5, 5), is(25));
     }
 
     @Test
     public void testDoSomething() {
-        //test.doSomething();
+        test.doSomething();
     }
 }
