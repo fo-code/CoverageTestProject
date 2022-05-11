@@ -6,4 +6,16 @@ public class Main {
         SourcecodeTestRenamed testClass = new SourcecodeTestRenamed();
         System.out.println(testClass.divide(4, 2));
     }
+
+    public void test() {
+        System.out.println();
+    }
+
+    public void test1() {
+        System.out.println();
+    }
+
+    public void test2() {
+        System.out.println();
+    }
 }

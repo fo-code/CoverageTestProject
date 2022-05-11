@@ -12,6 +12,17 @@ public class SourcecodeTestRenamed {
         return ++number;
     }
 
+    public void printHey() {
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+        System.out.println("Hey");
+    }
+
     public void doSomething() {
         x = 5;
         y = 4;
@@ -34,6 +45,10 @@ public class SourcecodeTestRenamed {
             return -1;
         }
         return x * y;
+    }
+
+    public void printHallo() {
+        System.out.println("Hallo");
     }
 
     public void print() {
