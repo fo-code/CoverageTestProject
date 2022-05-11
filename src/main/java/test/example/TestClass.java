@@ -1,6 +1,6 @@
 package test.example;
 
-public class SourcecodeTestRenamed {
+public class TestClass {
 
     /**
      * Comment.
@@ -13,13 +13,6 @@ public class SourcecodeTestRenamed {
     }
 
     public void printHey() {
-        System.out.println("Hey");
-        System.out.println("Hey");
-        System.out.println("Hey");
-        System.out.println("Hey");
-        System.out.println("Hey");
-        System.out.println("Hey");
-        System.out.println("Hey");
         System.out.println("Hey");
     }
 
@@ -45,10 +38,6 @@ public class SourcecodeTestRenamed {
             return -1;
         }
         return x * y;
-    }
-
-    public void printHallo() {
-        System.out.println("Hallo");
     }
 
     public void print() {

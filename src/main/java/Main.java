@@ -1,9 +1,9 @@
-import test.example.SourcecodeTestRenamed;
+import test.example.TestClass;
 
 public class Main {
 
     public static void main(String... args) {
-        SourcecodeTestRenamed testClass = new SourcecodeTestRenamed();
+        TestClass testClass = new TestClass();
         System.out.println(testClass.divide(4, 2));
     }
 
