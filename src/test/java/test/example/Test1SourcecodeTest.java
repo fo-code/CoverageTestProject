@@ -2,6 +2,7 @@ package test.example;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import test.example.internal.TestClassRenamed;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
@@ -9,10 +10,12 @@ import static org.hamcrest.Matchers.is;
 public class Test1SourcecodeTest {
 
     private static TestClass test;
+    private static TestClassRenamed testR;
 
     @BeforeAll
     public static void init() {
         test = new TestClass();
+        testR = new TestClassRenamed();
     }
 
     @Test
@@ -27,7 +30,7 @@ public class Test1SourcecodeTest {
 
     @Test
     public void testDivide() {
-        assertThat(test.divide(2, 2), is(1));
+        //assertThat(test.divide(2, 2), is(1));
     }
 
     @Test
@@ -48,5 +51,6 @@ public class Test1SourcecodeTest {
     @Test
     public void testHey() {
         test.printHey();
+        testR.test();
     }
 }

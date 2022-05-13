@@ -1,6 +1,6 @@
 package test.example.internal;
 
-public class TestClass {
+public class TestClassRenamed {
 
     public void test() {
         System.out.println();
