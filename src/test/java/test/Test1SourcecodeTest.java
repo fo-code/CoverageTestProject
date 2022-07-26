@@ -1,8 +1,8 @@
-package test.example;
+package test;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import test.example.internal.TestClassRenamed;
+import test.internal.TestClassRenamed;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;

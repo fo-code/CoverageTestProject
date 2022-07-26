@@ -1,4 +1,4 @@
-import test.example.TestClassNew;
+import test.TestClassNew;
 
 public class Main {
 

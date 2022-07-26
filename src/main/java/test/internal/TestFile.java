@@ -1,4 +1,4 @@
-package test.example.internal;
+package test.internal;
 
 public class TestFile {
 

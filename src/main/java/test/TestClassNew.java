@@ -1,4 +1,4 @@
-package test.example;
+package test;
 
 public class TestClassNew {
 
