@@ -1,10 +1,11 @@
-import test.TestClassNew;
+
+import java.util.Arrays;
+import java.util.List;
 
 public class Main {
 
     public static void main(String... args) {
-        TestClassNew testClass = new TestClassNew();
-        System.out.println(testClass.divide(4, 2));
+        List<String> names = Arrays.asList("one", "two", "two", "two");
     }
 
     public void test() {

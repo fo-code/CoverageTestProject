@@ -1,6 +1,6 @@
 package test;
 
-public class TestClass {
+public class TestFile {
 
     public void z() {
         System.out.println("hey");

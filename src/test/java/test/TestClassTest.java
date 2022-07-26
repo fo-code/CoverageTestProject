@@ -6,7 +6,9 @@ public class TestClassTest {
 
     @Test
     public void testZ() {
-        TestClass testClass = new TestClass();
+        TestFile testClass = new TestFile();
+        test.internal.TestFile t = new test.internal.TestFile();
         testClass.z();
+        t.x();
     }
 }
