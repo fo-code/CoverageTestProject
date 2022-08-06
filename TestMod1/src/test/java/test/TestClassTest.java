@@ -9,6 +9,6 @@ public class TestClassTest {
         TestFile testClass = new TestFile();
         test.internal.TestFile t = new test.internal.TestFile();
         testClass.z();
-        //t.x();
+        t.x();
     }
 }
