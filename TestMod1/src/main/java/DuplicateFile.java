@@ -1,4 +1,4 @@
-public class DuplicateFile1 {
+public class DuplicateFile {
 
     public void test() {
         System.out.println("Hey");
