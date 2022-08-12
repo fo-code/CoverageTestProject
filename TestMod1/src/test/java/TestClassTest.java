@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Test;
-import test.TestFile;
+import test.internal.TestFile;
 
 public class TestClassTest {
 
@@ -12,6 +12,6 @@ public class TestClassTest {
     @Test
     public void testFile() {
         TestFile test = new TestFile();
-        test.otherMethod();
+        test.testMethod();
     }
 }
