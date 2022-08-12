@@ -7,4 +7,12 @@ public class TestClassTest {
         DuplicateFile testClass = new DuplicateFile();
         testClass.duplicateMethod();
     }
+
+    @Test
+    public void testClass() {
+        TestClass test = new TestClass();
+        test.test();
+        test.test2(true);
+        test.test4(false);
+    }
 }
