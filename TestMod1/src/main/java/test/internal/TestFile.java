@@ -2,11 +2,7 @@ package test.internal;
 
 public class TestFile {
 
-    public void test() {
+    public void testMethod() {
         System.out.println("Hey");
-    }
-
-    public void x() {
-        System.out.println("Heyyyy");
     }
 }

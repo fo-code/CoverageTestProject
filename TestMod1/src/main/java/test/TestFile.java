@@ -2,7 +2,7 @@ package test;
 
 public class TestFile {
 
-    public void z() {
+    public void otherMethod() {
         System.out.println("hey");
     }
 }

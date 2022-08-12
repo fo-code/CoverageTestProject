@@ -1,6 +1,6 @@
 public class DuplicateFile {
 
     public void duplicateMethod() {
-        System.out.println("hey");
+        System.out.println("Hey");
     }
 }

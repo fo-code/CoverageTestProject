@@ -4,7 +4,7 @@ public class TestClassTest {
 
     @Test
     public void testZ() {
-        DuplicateFile1 testClass = new DuplicateFile1();
-        //testClass.test();
+        DuplicateFile testClass = new DuplicateFile();
+        testClass.duplicateMethod();
     }
 }
